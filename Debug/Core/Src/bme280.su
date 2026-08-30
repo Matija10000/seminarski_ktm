@@ -1,0 +1,8 @@
+../Core/Src/bme280.c:15:26:bme_citaj	40	static
+../Core/Src/bme280.c:20:26:bme_pisi	32	static
+../Core/Src/bme280.c:25:26:bme_citaj_kalibraciju	56	static
+../Core/Src/bme280.c:59:19:BME280_Pokreni	40	static
+../Core/Src/bme280.c:107:16:kompenziraj_temperaturu	24	static
+../Core/Src/bme280.c:119:17:kompenziraj_tlak	328	static
+../Core/Src/bme280.c:142:17:kompenziraj_vlagu	24	static
+../Core/Src/bme280.c:159:19:BME280_Ocitaj	56	static

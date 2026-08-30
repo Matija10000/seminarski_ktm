@@ -1,0 +1,13 @@
+../Core/Src/lcd_i2c.c:11:13:dwt_pokreni	4	static
+../Core/Src/lcd_i2c.c:18:13:pauza_us	24	static,ignoring_inline_asm
+../Core/Src/lcd_i2c.c:25:13:pcf_pisi	24	static
+../Core/Src/lcd_i2c.c:30:13:lcd_posalji4	24	static
+../Core/Src/lcd_i2c.c:40:13:lcd_posalji	16	static
+../Core/Src/lcd_i2c.c:46:13:lcd_naredba	16	static
+../Core/Src/lcd_i2c.c:53:13:lcd_podatak	16	static
+../Core/Src/lcd_i2c.c:58:19:LCD_Pokreni	32	static
+../Core/Src/lcd_i2c.c:92:6:LCD_Obrisi	16	static
+../Core/Src/lcd_i2c.c:97:6:LCD_PostaviKursor	16	static
+../Core/Src/lcd_i2c.c:104:6:LCD_Ispisi	16	static
+../Core/Src/lcd_i2c.c:110:6:LCD_IspisiRedak	32	static
+../Core/Src/lcd_i2c.c:127:6:LCD_Svjetlo	16	static
